@@ -1,3 +1,4 @@
+//123
 #include <conio.h>
 #include <stdio.h>
 #include <math.h>
@@ -207,3 +208,4 @@ void MangEclipse::LietKe()
 		mhe[i].Xuat();
 	}
 }
+//dnghi test1
